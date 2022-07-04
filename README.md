@@ -1,6 +1,6 @@
 # algos
 
-_This project was generated with [create-instantsearch-app](https://github.com/algolia/create-instantsearch-app) by [Algolia](https://algolia.com)._
+Some, of the important notes for developers to run this application locally on your computer and make some changes in it,
 
 ## Get started
 
